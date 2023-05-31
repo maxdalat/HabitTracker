@@ -1,6 +1,6 @@
 # HabitTracker
 
-Made by me, IOS Habit Tracker app with no ads and no reason to do this
+[Made by me, IOS Habit Tracker app with no ads and no reason to do this]
 
  Stuff to do:
  
