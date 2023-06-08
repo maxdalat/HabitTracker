@@ -4,10 +4,10 @@
 
  Stuff to do:
  
- ## 1. Make it so that when you close the app it keeps it's progress [High priority bug]
-    1. Possible Database??
-    2. Save it locally
-    3. Even crazier, save it both locally and on a database
+ ## 1. Make it so that when you close the app it keeps it's progress DONE YAYAYA
+    2. Save it locally DONE
+ ## 2. Make it so that when you resetDay(), it brings back the habits that disappeared.
+    1. Possible with local savings
  ## 2. Make todos
     1. One time todo's like homework assignments for class and etc.
  ## 3. Just make a database and stop finding ways to avoid it
@@ -21,4 +21,4 @@
     1. Ex. Todo's, reminders, homework assignments, tests.
  ## 7. Login page
     1. Add classes that you are in
- ## 8. GooglePlay app [low priority]
+ ## 8. GooglePlay app [lowest priority]
